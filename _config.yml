@@ -2,6 +2,7 @@ name: GNE Health
 favicon: null
 layout_spectrum: 0.71901366696693
 typography_spectrum: 0.9841127039398998
+title: GNE Health
 cta:
   domain: null
   bucket: null
