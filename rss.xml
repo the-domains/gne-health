@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GNE Health]]></title>
         <description><![CDATA[GNE Health]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gne-health/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 04:05:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 04:06:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gne-health/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Neill's Kraftka Collection]]></title>
             <description><![CDATA[<p>My Kraftka Collection</p>]]></description>
-            <link>undefinedneills-kraftka-collection/index.html</link>
+            <link>https://thegrid.ai/gne-health/neills-kraftka-collection/index.html</link>
             <guid isPermaLink="false">40306864-d87d-498a-9361-c10ec012b1d4</guid>
-            <pubDate>Tue, 03 May 2016 04:05:40 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 04:06:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
