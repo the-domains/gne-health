@@ -1,6 +1,6 @@
 name: GNE Health
 favicon: null
-layout_spectrum: 0.71901366696693
+layout_spectrum: 0.26268
 typography_spectrum: 0.9841127039398998
 title: GNE Health
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#414143'
+    - '#5a87c2'
+    - '#95bce2'
+    - '#9c9c9e'
   brandStrength: 0.5269647617824376
   lightness: 0.4006600643042475
   saturation: 0.8649252553004771
